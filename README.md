@@ -42,10 +42,6 @@ bash lab/04_prevenir.sh
 
 Le dépôt de démonstration est créé dans le dossier `demo/`, qui est exclu du suivi git. Relancer l'étape 1 le recrée à neuf.
 
-## Ce que j'en retiens
-
-*Section à rédiger après avoir mené le laboratoire.*
-
 ## Rapport
 
 Le rapport d'incident complet se trouve dans [docs/rapport_incident.md](docs/rapport_incident.md).
